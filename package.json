@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.photocloud.fr/root/cloud-operator.git"
+    "url": "https://github.com/bootexe/tp-npm.git"
   },
   "author": "KunlunTeam",
   "license": "ISC",
