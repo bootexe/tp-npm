@@ -1,7 +1,7 @@
 {
-  "name": "cloud-operator",
+  "name": "tp-npm",
   "version": "1.0.0",
-  "description": "cloud management software",
+  "description": "cours",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist/*",
@@ -24,7 +24,7 @@
     "type": "git",
     "url": "https://github.com/bootexe/tp-npm.git"
   },
-  "author": "KunlunTeam",
+  "author": "raphael.attal@ortmontreuil.fr",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.16.0",
