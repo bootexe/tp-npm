@@ -8,7 +8,7 @@
 *:not(input){
     user-select: none;
 }
-body{
+body,html{
     color: $primary;
     position: absolute;
     top: 0;
